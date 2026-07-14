@@ -1,4 +1,4 @@
-<img width="1323" height="730" alt="image" src="https://github.com/user-attachments/assets/b853ea9e-7ec6-4261-b74c-3144045f50b4" />Heart Disease Dashboard Analysis
+Heart Disease Dashboard Analysis
 
 <img width="1323" height="730" alt="image" src="https://github.com/user-attachments/assets/4e5918f7-3179-46c4-8072-87dcd028da80" />
 
