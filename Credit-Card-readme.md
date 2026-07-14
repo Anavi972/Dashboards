@@ -1,6 +1,6 @@
 # Credit Card Financial Dashboard Analysis
 
-<img width="1329" height="730" alt="Dashboard" src="YOUR_IMAGE_LINK_HERE" />
+<img width="1329" height="730" alt="Dashboard" src="https://github.com/Anavi972/Dashboard-Images/blob/main/CC%20Customer%20Report.png?raw=true" />
 
 # Credit Card Financial Dashboard
 
