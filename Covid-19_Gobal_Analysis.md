@@ -1,6 +1,6 @@
 # COVID-19 Global Dashboard Analysis
 
-<img width="1329" height="730" alt="Dashboard" src="https://github.com/user-attachments/assets/YOUR_IMAGE_LINK_HERE" />
+<img width="1329" height="730" alt="Dashboard" src="https://github.com/user-attachments/assets/"C:\Users\anavi\OneDrive\Pictures\Screenshots\Screenshot 2026-07-14 172431.png"" />
 
 # COVID-19 Global Dashboard
 
