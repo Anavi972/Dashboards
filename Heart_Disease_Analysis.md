@@ -1,6 +1,7 @@
-Heart Disease Dashboard Analysis
+<img width="1323" height="730" alt="image" src="https://github.com/user-attachments/assets/b853ea9e-7ec6-4261-b74c-3144045f50b4" />Heart Disease Dashboard Analysis
 
-<img width="1329" height="730" alt="image" src="https://github.com/user-attachments/assets/66890373-a4f4-41d5-9910-dda8a13fcda1" />
+<img width="1323" height="730" alt="image" src="https://github.com/user-attachments/assets/4e5918f7-3179-46c4-8072-87dcd028da80" />
+
 
 Heart Disease Analysis Dashboard
 This repository features a comprehensive healthcare analytics dashboard built in Microsoft Power BI. It is designed to analyze patient data related to heart failure, providing crucial insights into survival rates, demographic factors, and the impact of various clinical risk factors.
