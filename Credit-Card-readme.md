@@ -4,24 +4,17 @@
 
 # Credit Card Financial Dashboard
 
-This repository features a comprehensive **Credit Card Financial Analytics Dashboard** built in **Microsoft Power BI**. It is designed to analyze customer demographics, transaction behavior, revenue trends, and card performance, providing valuable insights into customer spending patterns and overall business performance.
-
----
+This repository features a comprehensive **financial analytics dashboard** built in **Microsoft Power BI**. It is designed to analyze customer demographics, credit card transactions, revenue trends, and business performance, providing valuable insights into customer behavior, spending patterns, and key financial metrics.
 
 ## 📈 Project Overview
 
-The dashboard serves as a powerful Business Intelligence solution for banks and financial institutions to monitor credit card operations. By visualizing customer behavior and transaction metrics, it helps identify high-value customer segments, analyze revenue drivers, track weekly performance, and evaluate card usage across different demographic groups.
+The dashboard serves as a powerful tool for financial analysts, banking professionals, and business stakeholders to monitor credit card performance and customer activity. By visualizing revenue, transaction volume, customer segmentation, and interest earnings, it helps identify high-value customer groups, evaluate card performance, and uncover trends that support informed business decisions.
 
 ---
 
 ## 🖼️ Dashboard Showcase
 
-The project consists of two interactive dashboards:
-
-- **Credit Card Transaction Dashboard**
-- **Credit Card Customer Dashboard**
-
-Together, they provide a centralized view of financial KPIs, customer segmentation, transaction trends, and revenue analysis.
+The project consists of two interactive dashboards that provide a centralized view of key financial KPIs, customer insights, transaction analysis, and weekly business performance.
 
 ---
 
@@ -29,121 +22,85 @@ Together, they provide a centralized view of financial KPIs, customer segmentati
 
 ### Executive KPIs
 
-At-a-glance cards display the most important business metrics:
+At-a-glance cards display the most critical business metrics:
 
-- Total Revenue
-- Total Interest Earned
-- Total Transaction Amount
-- Total Transaction Count
+- Revenue: Total revenue generated through credit card transactions.
+- Interest Earned: Total interest income earned from customers.
+- Transaction Amount: Overall transaction value processed.
+- Transaction Count: Total number of credit card transactions.
 
 ### Revenue Trend Analysis
 
-Interactive line and combination charts visualize:
+Interactive line and bar charts visualize weekly business performance by tracking:
 
-- Weekly Revenue Trends
+- Weekly Revenue
 - Weekly Transaction Volume
-- Revenue Growth Over Time
+- Revenue Growth Trends
 
 ### Customer Segmentation
 
-Analyze customers based on:
+Analyze customer behavior based on multiple demographic attributes:
 
 - Age Group
-- Income Group
+- Gender
 - Education Level
+- Income Group
 - Occupation
 - Marital Status
-- Gender
 
-### Card Performance Analysis
+### Card Category Analysis
 
-Compare business performance across different card categories, including:
+Compare the performance of different credit card categories, including:
 
-- Blue
-- Silver
-- Gold
-- Platinum
+- Blue Card
+- Silver Card
+- Gold Card
+- Platinum Card
 
-### Transaction Analysis
+to understand their contribution to revenue and transaction volume.
 
-Monitor customer spending across multiple transaction modes and expenditure categories to identify purchasing behavior and revenue-generating segments.
+### Expenditure Analysis
+
+Visualizations categorize customer spending across different expenditure types, helping identify major spending categories and purchasing patterns.
 
 ### Geographic Analysis
 
-Analyze customer distribution and revenue contribution across different states and regions.
+State-wise visualizations provide insights into regional customer distribution and revenue contribution across different locations.
 
-### Interactive Filters
+### Weekly Performance Monitoring
 
-The dashboard includes slicers for dynamic analysis by:
-
-- Week
-- Card Category
-- Customer Segment
+Dedicated trend charts enable continuous monitoring of weekly revenue and transaction activity, helping identify seasonal patterns and business fluctuations.
 
 ---
 
 ## 📊 Data Source
 
-The analysis is based on a synthetic credit card dataset containing customer demographics, transaction history, and financial metrics.
+This analysis is based on a synthetic **Credit Card Financial Dataset** containing customer demographics, transaction records, and financial performance metrics.
 
 The dataset includes information such as:
 
 - Customer Age
 - Gender
-- Income
 - Education
+- Income
 - Occupation
+- Marital Status
 - Card Category
-- Transaction Amount
-- Interest Earned
 - Revenue
+- Interest Earned
+- Transaction Amount
 - Transaction Count
+- Expenditure Type
 - State
 
 ---
 
 ## 🛠️ Tools and Techniques
 
-**Visualization & BI Tool**
+**Visualization & BI Tool:** Microsoft Power BI
 
-- Microsoft Power BI
+**Data Analysis Expressions (DAX):** Used for creating calculated measures such as Revenue, Interest Earned, Weekly Revenue, Transaction Count, and other business KPIs.
 
-**Data Modeling & Analytics**
+**Data Modeling:** A structured data model connecting customer information with transaction and financial datasets for interactive analysis.
 
-- Power Query
-- DAX
-- Data Cleaning
-- Data Transformation
-
-**Dashboard Features**
-
-- KPI Cards
-- Interactive Slicers
-- Treemaps
-- Bar Charts
-- Line Charts
-- Tables
-- Dynamic Filtering
-
----
-
-## 📈 Skills Demonstrated
-
-- Power BI
-- DAX
-- Power Query
-- Business Intelligence
-- Financial Analytics
-- Customer Analytics
-- KPI Development
-- Dashboard Design
-- Data Cleaning
-- Data Visualization
-- Data Modeling
-- Interactive Reporting
-
----
-
-## 🎯 Project Outcome
-
-The dashboard transforms raw financial transaction data into actionable insights, enabling stakeholders to monitor business performance, understand customer spending behavior, evaluate card performance, and make data-driven decisions through interactive visualizations.
+**UI/UX Design:** A clean, intuitive dashboard layout featuring interactive slicers, KPI cards, charts, and consistent color themes for enhanced user experience.
